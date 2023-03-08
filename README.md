@@ -21,7 +21,7 @@
 	</ul>
 	<h2>Installation</h2>
 	<p>To install this project, simply clone the repository onto your local machine.</p>
-	<pre><code>git clone https://github.com/your-username/responsive-bootstrap-web-design.git</code></pre>
+	<pre><code>git clone https://github.com/fhasancelik/responsive-bootstrap-web-design.git</code></pre>
 	<h2>Usage</h2>
 	<p>To view the web design, simply open the <code>index.html</code> file in your web browser. The design will automatically adjust to fit the size of your screen.</p>
 	<p>Feel free to modify the design and use it in your own projects. You can customize the colors, fonts, and layout by editing the CSS and HTML files.</p>
