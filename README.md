@@ -4,11 +4,9 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Responsive Bootstrap Web Design</title>
+	
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-	<style>
-		/* Add custom styles here */
-	</style>
+	
 </head>
 <body>
 	<h1>Responsive Bootstrap Web Design</h1>
