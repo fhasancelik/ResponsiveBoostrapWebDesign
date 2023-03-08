@@ -1,7 +1,16 @@
 ![BoostrapWebDesign](https://user-images.githubusercontent.com/123208180/223715738-49f6e626-9b62-4c32-8d02-9268b3513b7f.gif)
 
-
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Responsive Bootstrap Web Design</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+	<style>
+		/* Add custom styles here */
+	</style>
+</head>
+<body>
 	<h1>Responsive Bootstrap Web Design</h1>
 	<p>This is a project showcasing a responsive web design built with Bootstrap, CSS3, and HTML5.</p>
 	<h2>Features</h2>
@@ -19,4 +28,5 @@
 	<h2>Credits</h2>
 	<p>This project was built by <em>Hasan CELIK</em> as part of a web development course. It uses the Bootstrap framework for styling and layout, and was inspired by other responsive web designs found online. Special thanks to the Bootstrap team for creating such a great framework!</p>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-
+</body>
+</html>
